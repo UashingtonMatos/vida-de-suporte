@@ -7,6 +7,12 @@ Shayder dos Santos Soeiro
 Uashington das Silva Matos
 Yasmim Vieira Raimundo Coser
 
+Planejamento do Projeto - SCRUM
+Equipe e Papéis
+- Product Owner: Uashington da Silva Matos  
+- Scrum Master: Monick Souza Gonçalves Lichtenheld
+- Time de Desenvolvimento: Yasmim Vieira Raimundo Coser, Shayder dos Santos Soeiro, Uashington da Silva Matos, Monick Souza Gonçalves Lichtenheld
+
 Descrição do Projeto
 Projeto de criação de uma HQ utilizando metodologias ágeis (Scrum e Kanban), com geração de imagens por IA, mostrando o dia a dia e os desafios de um profissional de suporte técnico.
 
@@ -17,6 +23,8 @@ Aplicar metodologias ágeis para organização, acompanhamento e entrega do proj
 
 Estrutura Inicial da HQ
 Capítulo 1 – O Chamado: Introdução dos personagens e primeiros problemas do dia.
+           – Gerar 10 imagens em IA referentes ao Capítulo 1 
+           – Revisar as imagens 
 
 
 Links do Projeto
