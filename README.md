@@ -17,3 +17,8 @@ Aplicar metodologias ágeis para organização, acompanhamento e entrega do proj
 
 Estrutura Inicial da HQ
 Capítulo 1 – O Chamado: Introdução dos personagens e primeiros problemas do dia.
+
+
+Links do Projeto
+- Product Backlog (Issues): https://github.com/UashingtonMatos/vida-de-suporte/issues
+- Kanban Project: https://github.com/users/UashingtonMatos/projects/2
