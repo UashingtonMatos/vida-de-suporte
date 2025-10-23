@@ -1,0 +1,44 @@
+CAPÍTULO 3 — “A Intervenção”
+
+Agora Erivelson e equipe executam a correção técnica real: manutenção, bloqueios, reinício de serviços, pressão do escritório, efeitos colaterais
+
+
+1) Início da Manutenção
+
+Equipe de TI em frente aos computadores preparando scripts e comandos para iniciar manutenção. Erivelson no centro coordenando. Ambiente focado e silencioso, HQ realista técnica.
+
+2) Aviso de Manutenção para os Usuários
+
+Email ou aviso em mural digital: “Manutenção de Rede — sistemas indisponíveis por alguns minutos”. Funcionários reagindo com caras de desaprovação. Tom leve humorístico, HQ realista.
+
+3) Desligamento Controlado do Servidor
+
+Erivelson digitando comandos para desligar servidor com calma técnica. Tela mostrando contagem regressiva ou “Shutdown in progress”. Iluminação dramática de sala de TI, HQ realista.
+
+4) Substituição de Equipamento Defeituoso
+
+Erivelson trocando um switch ou roteador queimado no rack. Cabos organizados, ferramentas ao lado. Gestor observa confiante. Estilo HQ técnico realista.
+
+5) Aplicação de Patch / Segurança
+
+Close no monitor mostrando instalação de patch de segurança ou atualização crítica. Barra de progresso, clima sério. HQ realista com foco tecnológico.
+
+6) Usuária Teresa Espiando Preocupada
+
+Teresa ao fundo olhando apreensiva pela porta da sala de TI enquanto a manutenção acontece. Erivelson a acalma com gesto de mão. HQ realista com leve humor social.
+
+7) Reinício da Rede
+
+Rack com luzes mudando de vermelho para verde após reinício. Reflexo das luzes no rosto de Erivelson com expressão de alívio focado. HQ realista cinematográfica.
+
+8) Primeiro Teste Bem-sucedido
+
+Erivelson testando conexão em um notebook com “Conexão Estável — OK” na tela. Time de TI ao fundo comemorando discretamente. HQ realista de vitória técnica.
+
+9) Usuários Voltando a Trabalhar
+
+Funcionários retomando o trabalho, sorriso de alívio, Teresa digitando de novo feliz. Gestor dá um “joinha” para Erivelson à distância. HQ realista com clima positivo.
+
+10) Fim do Sprint / Encerramento
+
+Erivelson registrando no sistema o fechamento da tarefa, com anotações no Jira ou no sistema interno. Cena de conclusão, clima profissional e organizado. HQ realista com ar de dever cumprido.
