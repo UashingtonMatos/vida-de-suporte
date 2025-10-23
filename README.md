@@ -26,6 +26,10 @@ Capítulo 1 – O Chamado: Introdução dos personagens e primeiros problemas do
            – Gerar 10 imagens em IA referentes ao Capítulo 1 
            – Revisar as imagens 
 
+CAPÍTULO 2 – “O Problema é Maior” — INVESTIGAÇÃO
+           – Gerar 10 imagens em IA referentes ao Capítulo 1 
+           – Revisar as imagens 
+
 
 Links do Projeto
 - Product Backlog (Issues): https://github.com/UashingtonMatos/vida-de-suporte/issues
