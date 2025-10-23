@@ -1,0 +1,41 @@
+CAPÍTULO 2 – “O Problema é Maior” — INVESTIGAÇÃO
+
+1) Sintomas Estranhos na Rede
+
+Erivelson analisando um painel de monitoramento de rede com vários alertas vermelhos e queda de pacotes. Ele franze a testa, percebe que o problema não é só de um computador. Sala de TI com cabos e roteadores. Estilo HQ realista e dramático.
+
+2) Conversa com o Gestor
+
+Erivelson explica ao gestor, mostrando gráficos no notebook, enquanto o gestor reage com preocupação. Ambiente corporativo formal. Estilo HQ realista de escritório com tensão.
+
+3) Acesso à Sala de Servidores
+
+Erivelson entra na sala de servidores, com porta de segurança, racks iluminados em azul. Tom mais sério e técnico. HQ realista com clima de investigação.
+
+4) Log de Erros Suspeitos
+
+Close no monitor mostrando logs com falhas, mensagens de erro, possível falha de DHCP ou DNS. Erivelson com expressão concentrada, digitando comandos. HQ técnica realista.
+
+5) Suspeita de Vírus ou Ataque
+
+Erivelson observa uma mensagem suspeita em fundo escuro na tela, levantando hipótese de malware. Cena com iluminação dramática de monitor no rosto. Estilo HQ investigativo.
+
+6) Reunião Rápida com a Equipe
+
+Erivelson reúne 2 ou 3 colegas de TI em volta de uma mesa com diagramas e laptops, discutindo hipóteses. Gestos com mãos, clima de urgência. HQ realista de equipe técnica.
+
+7) Scan de Rede em Andamento
+
+Close no terminal mostrando scan de rede em barra de progresso, Erivelson observando atentamente. Ambiente de TI, luz das telas refletindo no óculos. HQ realista.
+
+8) Impressora Voltando a Cair
+
+A impressora que antes tinha dado erro volta a falhar, um usuário chama irritado ao fundo, enquanto Erivelson ignora temporariamente para focar no servidor. HQ com humor leve + pressão.
+
+9) Localizando o Ponto de Falha
+
+Mapa de rede exibido na tela com um dos setores marcado em vermelho. Erivelson aponta para a tela, confirmando que encontrou a origem. HQ realista de descoberta técnica.
+
+10) Decisão de Manutenção Programada
+
+Gestor, Erivelson e colegas concordam com uma intervenção planejada. Cena com quadro branco e plano de ação anotado. Clima de decisão estratégica, HQ realista.
