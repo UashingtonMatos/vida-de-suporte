@@ -27,11 +27,15 @@ Capítulo 1 – O Chamado: Introdução dos personagens e primeiros problemas do
            – Revisar as imagens 
 
 CAPÍTULO 2 – “O Problema é Maior” — INVESTIGAÇÃO 
-           – Gerar 10 imagens em IA referentes ao Capítulo 1 
+           – Gerar 10 imagens em IA referentes ao Capítulo 2
            – Revisar as imagens 
 
 CAPÍTULO 3 — “A Intervenção”
-           – Gerar 10 imagens em IA referentes ao Capítulo 1 
+           – Gerar 10 imagens em IA referentes ao Capítulo 3
+           – Revisar as imagens 
+
+CAPÍTULO 4 — “Retrospectiva e Lição Aprendida”
+           – Gerar 10 imagens em IA referentes ao Capítulo 4
            – Revisar as imagens 
 
 Links do Projeto
